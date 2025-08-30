@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="md:max-w-96">
                     <img className="w-36 h-auto" src={assets.logo} alt="logo" />
                     <p className="mt-6 text-sm">
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        Book Movie Ticket brings you the easiest way to watch your favorite movies. From latest blockbusters to timeless classics, enjoy secure booking, instant confirmation, and seamless Pay-Per-View access - anytime, anywhere.
                     </p>
                     <div className="flex items-center gap-2 mt-4">
                         <img src={assets.googlePlay} alt="google play" className="h-9 w-auto" />
@@ -21,7 +21,7 @@ const Footer = () => {
                         <ul className="text-sm space-y-2">
                             <li><a href="#">Home</a></li>
                             <li><a href="#">About us</a></li>
-                            <li><a href="#">Contact us</a></li>
+                            <li><a href="https://mdraihanahmad-new-portfolio.netlify.app/" target='_blank'>Contact us</a></li>
                             <li><a href="#">Privacy policy</a></li>
                         </ul>
                     </div>
@@ -29,13 +29,14 @@ const Footer = () => {
                         <h2 className="font-semibold mb-5">Get in touch</h2>
                         <div className="text-sm space-y-2">
                             <p>+1-234-567-890</p>
-                            <p>contact@example.com</p>
+                            <p>contact @ mdraihanahmad47@gmail.com</p>
+                            <a href="https://www.linkedin.com/in/md-raihan-ahmad" target='_blank'>Connect on Linkdin</a>
                         </div>
                     </div>
                 </div>
             </div>
             <p className="pt-4 text-center text-sm pb-5">
-                Copyright {new Date().getFullYear()} © GreatStack. All Right Reserved.
+                Copyright {new Date().getFullYear()} © Md Raihan Ahmad. All Right Reserved.
             </p>
         </footer>
   )
