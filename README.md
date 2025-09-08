@@ -3,6 +3,7 @@
 ## Try Here: https://movticketbk-client.vercel.app/
 QuickShow is a modern web application for booking movie tickets online. It provides users with an easy-to-use interface to browse movies, check showtimes, select seats, and book tickets seamlessly.
 This project is built with React + Vite for a fast and smooth frontend experience and deployed on Vercel.
+[Movie-Ticket-Booking-Show-Revolutionizing-Movie-Ticket-Booking.pdf](https://github.com/user-attachments/files/22205066/Movie-Ticket-Booking-Show-Revolutionizing-Movie-Ticket-Booking.pdf)
 
 ## ✨ Features
 🔍 Browse and search for movies.
@@ -29,3 +30,4 @@ Open http://localhost:5173
  to view the app in your browser.
 ## 🌐 Deployment
 This app is deployed on Vercel: https://movticketbk-client.vercel.app/
+
